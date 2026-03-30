@@ -1,0 +1,6 @@
+qualys_agent:
+  use: True
+  package_file: 'salt:///path/to_the/installer/package.ext'
+  package_name: name_of_the_package
+  activation_id: activation-key-for-mm-standard-profile
+  customer_id: customer-id-for-tenant

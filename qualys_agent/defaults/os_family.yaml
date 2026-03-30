@@ -1,0 +1,4 @@
+RedHat:
+  package_name: qualys-cloud-agent
+  service_name: qualys-cloud-agent
+  path_to_qualys_cloud_agent: /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh
